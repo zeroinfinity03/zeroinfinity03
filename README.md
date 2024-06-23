@@ -1,7 +1,5 @@
-# 👋 Hi there, I'm Surya Singh!
+# 👋 Hi there, Welcome to ZeroInfinity Repo!
 
-## 🎓 About Me
-I'm currently pursuing my Master of Science in Information Systems at California State University, Fullerton, expected to graduate in 2025. With a background in Computer Science from RTU, I specialize in leveraging advanced software development techniques and data-driven insights to improve business processes and user experiences.
 
 ## 🌟 What I Do
 As a passionate Data Scientist and Software Engineer, I have experience:
@@ -25,14 +23,18 @@ I utilize a wide range of technologies to build and deploy innovative software s
 - **Multimodal AI Chatbot** - Utilized Python, Streamlit, SQLite, and LangChain to create a chatbot that understands text, audio, images, and PDFs. [Check it out!](https://github.com/zeroinfinity03/multimodal-CHATBOT/tree/main)
 - **Image to Text Microservice** - Developed a FastAPI and Docker-based microservice using Tesseract OCR via pytesseract for accurate text extraction from various image formats. [Explore the code!](https://github.com/zeroinfinity03/ocr-microservice/tree/main)
 
+- ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity&theme=radical&no-frame=true)
+
+![Snake animation](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
+
 ## 📈 GitHub Stats
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroinfinity&theme=dark&show_icons=true)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity&theme=radical&no-frame=true)
+
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Surya Singh](https://www.linkedin.com/in/surya-singh-412564233/)
-- **Email**: [vik03surya@gmail.com](mailto:vik03surya@gmail.com)
+- **Email**: [vik03surya@gmail.com](mailto:zeroinfinity03@gmail.com)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->

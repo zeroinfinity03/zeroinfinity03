@@ -11,12 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Create output directory
+        run: mkdir -p dist/
+
       - name: Generate snake game
         uses: Platane/snk@master
         id: snake-game
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-snake.svg
+
+      - name: List output files
+        run: ls -alh dist/
 
       - name: Upload SVG to Branch
         uses: EndBug/add-and-commit@v7

@@ -1,33 +1,29 @@
-name: Generate GitHub Contribution Snake Game
+name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs at midnight every day
+    - cron: '0 0 * * *'  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Create output directory
-        run: mkdir -p dist/
-
-      - name: Generate snake game
+      - name: Generate snake animation
         uses: Platane/snk@master
-        id: snake-game
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-snake.svg
+          svg_out_path: 'dist/github-contribution-snake.svg'
 
-      - name: Check directory contents
-        run: ls -lR ./dist
-
-      - name: Upload SVG to Branch
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v7
         with:
           add: 'dist/github-contribution-snake.svg'
           message: 'Update GitHub contribution snake game'
-          default_author: github_actions
-          branch: 'main'
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          push: true

@@ -10,9 +10,11 @@ As a passionate Data Scientist and Software Engineer, I have experience:
 - Building and deploying interactive, multimodal AI systems capable of processing and responding to various data formats.
 
 ## 🔧 Technologies & Tools
-Here are some of the AI-focused technologies I work with:
+I utilize a wide range of technologies to build and deploy innovative software solutions:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -20,8 +22,8 @@ Here are some of the AI-focused technologies I work with:
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ## 🚀 Some Projects I've Worked On
-- **Multimodal AI Chatbot** - Utilized Python, Streamlit, and SQLite to create a chatbot that understands text, audio, and images. [Check it out!](https://github.com/zeroinfinity03/multimodal-CHATBOT/tree/main)
-- **Image to Text Microservice** - Developed a FastAPI and Docker-based microservice for OCR tasks. [Explore the code!](https://github.com/zeroinfinity03/ocr-microservice/tree/main)
+- **Multimodal AI Chatbot** - Utilized Python, Streamlit, SQLite, and LangChain to create a chatbot that understands text, audio, images, and PDFs. [Check it out!](https://github.com/zeroinfinity03/multimodal-CHATBOT/tree/main)
+- **Image to Text Microservice** - Developed a FastAPI and Docker-based microservice using Tesseract OCR via pytesseract for accurate text extraction from various image formats. [Explore the code!](https://github.com/zeroinfinity03/ocr-microservice/tree/main)
 
 ## 📈 GitHub Stats
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroinfinity&theme=dark&show_icons=true)

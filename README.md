@@ -1,6 +1,5 @@
 # 👋 Hi there, Welcome to ZeroInfinity Repo!
 
-
 ## 🌟 What I Do
 As a passionate Data Scientist and Software Engineer, I have experience:
 - Analyzing customer behavior and market trends to drive business strategies, resulting in significant performance improvements.
@@ -23,23 +22,19 @@ I utilize a wide range of technologies to build and deploy innovative software s
 - **Multimodal AI Chatbot** - Utilized Python, Streamlit, SQLite, and LangChain to create a chatbot that understands text, audio, images, and PDFs. [Check it out!](https://github.com/zeroinfinity03/multimodal-CHATBOT/tree/main)
 - **Image to Text Microservice** - Developed a FastAPI and Docker-based microservice using Tesseract OCR via pytesseract for accurate text extraction from various image formats. [Explore the code!](https://github.com/zeroinfinity03/ocr-microservice/tree/main)
 
-- ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity&theme=radical&no-frame=true)
-
-<img src="https://raw.githubusercontent.com/zeroinfinity03/zeroinfinity03/output/snake.svg" alt="Snake animation" />
-
-![GitHub Contribution Snake Game](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity03&theme=radical&no-frame=true)
 
 ## 📈 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroinfinity&theme=dark&show_icons=true)
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroinfinity03&count_private=true&show_icons=true&hide=contribs,prs&line_height=20&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroinfinity03&layout=compact&theme=dark&langs_count=10&hide=css,html)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeroinfinity03&theme=dark&hide_total_contributions=false)
 
-
+## 🐍 GitHub Contribution Snake Game
+![GitHub Contribution Snake Game](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Zero Infinity](https://www.linkedin.com/in/surya-singh-412564233/)
 - **Email**: [zeroinfinity03@gmail.com](mailto:zeroinfinity03@gmail.com)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-
-
-

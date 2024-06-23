@@ -35,7 +35,7 @@ I utilize a wide range of technologies to build and deploy innovative software s
 
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Surya Singh](https://www.linkedin.com/in/surya-singh-412564233/)
-- **Email**: [vik03surya@gmail.com](mailto:zeroinfinity03@gmail.com)
+- **LinkedIn**: [Zero Infinity](https://www.linkedin.com/in/surya-singh-412564233/)
+- **Email**: [zeroinfinity03@gmail.com](mailto:zeroinfinity03@gmail.com)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->

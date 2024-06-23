@@ -26,6 +26,7 @@ I utilize a wide range of technologies to build and deploy innovative software s
 - ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity&theme=radical&no-frame=true)
 
+<img src="https://raw.githubusercontent.com/zeroinfinity03/zeroinfinity03/output/snake.svg" alt="Snake animation" />
 
 ![GitHub Contribution Snake Game](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
 

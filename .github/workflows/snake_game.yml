@@ -21,8 +21,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-snake.svg
 
-      - name: List output files
-        run: ls -alh dist/
+      - name: Check directory contents
+        run: ls -lR ./dist
 
       - name: Upload SVG to Branch
         uses: EndBug/add-and-commit@v7
@@ -30,4 +30,4 @@ jobs:
           add: 'dist/github-contribution-snake.svg'
           message: 'Update GitHub contribution snake game'
           default_author: github_actions
-          branch: 'main'  # or any branch where you want to commit the SVG
+          branch: 'main'

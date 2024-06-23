@@ -26,7 +26,8 @@ I utilize a wide range of technologies to build and deploy innovative software s
 - ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity&theme=radical&no-frame=true)
 
-![Snake animation](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
+
+![GitHub Contribution Snake Game](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
 
 ## 📈 GitHub Stats
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroinfinity&theme=dark&show_icons=true)

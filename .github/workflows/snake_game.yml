@@ -1,0 +1,27 @@
+name: Generate GitHub Contribution Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate snake game
+        uses: Platane/snk@master
+        id: snake-game
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-snake.svg
+
+      - name: Upload SVG to Branch
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: 'dist/github-contribution-snake.svg'
+          message: 'Update GitHub contribution snake game'
+          default_author: github_actions
+          branch: 'main'  # or any branch where you want to commit the SVG

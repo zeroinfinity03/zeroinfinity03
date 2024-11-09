@@ -30,8 +30,6 @@ I utilize a wide range of technologies to build and deploy innovative software s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroinfinity03&layout=compact&theme=dark&langs_count=10&hide=css,html&custom_title=Top%20Languages&fake_percentages=1)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeroinfinity03&theme=dark&hide_total_contributions=false&fire=10&ring=100)
 
-## 🐍 GitHub Contribution Snake Game
-![GitHub Contribution Snake Game](https://github.com/zeroinfinity03/zeroinfinity03/blob/main/dist/github-contribution-snake.svg)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Zero Infinity](https://www.linkedin.com/in/surya-singh-412564233/)

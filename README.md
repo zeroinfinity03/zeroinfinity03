@@ -25,11 +25,6 @@ I utilize a wide range of technologies to build and deploy innovative software s
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity03&theme=radical&no-frame=true)
 
-## 📈 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroinfinity03&count_private=true&show_icons=true&hide=contribs,prs&line_height=20&theme=dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&total_commits=200&total_stars=50)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroinfinity03&layout=compact&theme=dark&langs_count=10&hide=css,html&custom_title=Top%20Languages&fake_percentages=1)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeroinfinity03&theme=dark&hide_total_contributions=false&fire=10&ring=100)
-
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Zero Infinity](https://www.linkedin.com/in/surya-singh-412564233/)

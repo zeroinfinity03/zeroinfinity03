@@ -18,9 +18,10 @@ I utilize a wide range of technologies to build and deploy innovative software s
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
-## 🚀 Some Projects I've Worked On
-- **Multimodal AI Chatbot** - Utilized Python, Streamlit, SQLite, and LangChain to create a chatbot that understands text, audio, images, and PDFs. [Check it out!](https://github.com/zeroinfinity03/multimodal-CHATBOT/tree/main)
-- **Image to Text Microservice** - Developed a FastAPI and Docker-based microservice using Tesseract OCR via pytesseract for accurate text extraction from various image formats. [Explore the code!](https://github.com/zeroinfinity03/ocr-microservice/tree/main)
+## 🚀 Projects I've Worked On
+- **Visionary Mate** - Visionary Mate is a comprehensive web application that combines the functionalities of two projects—Multimodal Mate and Visionary—into a single platform. It provides multimodal assistance through text, images, audio, and documents, leveraging advanced AI models and APIs for real-time, context-aware responses. [Check it out!]([https://github.com/zeroinfinity03/multimodal-CHATBOT/tree/main](https://github.com/zeroinfinity03/Visionary_mate.git))
+
+- **Real-Time-Stock-Prediction** - The Real-Time Stock Analysis and Prediction Platform (RTSP) is a sophisticated web application designed to empower investors and financial enthusiasts with up-to-the-minute stock information, predictive analytics, and sentiment-driven trend adjustments. By seamlessly integrating real-time financial data, historical performance analysis, and the latest news sentiment, RTSP provides users with a holistic toolkit for informed decision-making. Leveraging FastAPI for backend efficiency and Jinja2 for dynamic frontend rendering, the platform ensures a responsive, secure, and user-centric experience.. [Explore the code!](https://github.com/zeroinfinity03/real-time-stock-prediction.git)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zeroinfinity03&theme=radical&no-frame=true)

@@ -8,26 +8,17 @@ I'm **Surya Singh**, a passionate **Data Scientist** and **Software Engineer**. 
 ## 🔧 Technologies & Tools I Work With
 Here are the tools and frameworks I excel at using to create innovative solutions:
 
-### **Programming & Data Processing**
-![Python](https://www.python.org/static/community_logos/python-logo.png)  
-![NumPy](https://numpy.org/images/logos/numpy_logo.svg)  
-![Pandas](https://pandas.pydata.org/static/img/pandas_white.svg)  
-![Polars](https://www.dutchnews.nl/wp-content/uploads/2023/01/polars-logo.png)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-000000?style=for-the-badge&logo=polars&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-231F20?style=for-the-badge&logo=pydantic&logoColor=white)
 
-### **Web Development**
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)  
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)  
-![Jinja2](https://img.icons8.com/color/48/000000/jinja2.png)  
-
-### **Machine Learning & AI**
-![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png)  
-![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png)  
-![LangChain](https://seeklogo.com/images/L/langchain-logo-2A2B6BF2E7-seeklogo.com.png)  
-![Pydantic](https://avatars.githubusercontent.com/u/30423565?s=200&v=4)  
-
-### **Visualization & Reporting**
-![Matplotlib](https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png)  
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)  
 
 ---
 

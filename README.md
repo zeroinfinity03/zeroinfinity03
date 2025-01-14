@@ -48,7 +48,6 @@ I'm **Surya Singh**, a passionate **Data Scientist** and **Software Engineer**. 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=for-the-badge&logo=database&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 

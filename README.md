@@ -33,7 +33,6 @@ I'm **Surya Singh**, a passionate **Data Scientist** and **Software Engineer**. 
 
 ### **Visualization Tools**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---

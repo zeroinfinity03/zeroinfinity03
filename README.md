@@ -1,7 +1,7 @@
 # 👋 Welcome to the ZeroInfinity Repository!
 
 ## 🌟 About Me
-I'm Surya, a data scientist and developer passionate about transforming complex data into actionable business intelligence and innovative applications.
+### I'm Surya, a data scientist and developer passionate about transforming complex data into actionable business intelligence and innovative applications.
 
 ---
 

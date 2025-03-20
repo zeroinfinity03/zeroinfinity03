@@ -1,7 +1,7 @@
 # 👋 Welcome to the ZeroInfinity Repository!
 
 ## 🌟 About Me
-I'm **Surya Singh**, a passionate **Data Scientist** and **Software Engineer**. With a strong foundation in data analysis, software development, and machine learning, I focus on building impactful solutions that bridge innovation and practicality.
+I'm Surya, a data scientist and developer passionate about transforming complex data into actionable business intelligence and innovative applications.
 
 ---
 

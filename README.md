@@ -30,7 +30,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-231F20?style=for-the-badge\&logo=pydantic\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
@@ -38,7 +37,7 @@
 ---
 
 ### **GenAI, Machine Learning & NLP**
-
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A148C?style=for-the-badge\&logo=llama\&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=for-the-badge\&logo=database\&logoColor=white)

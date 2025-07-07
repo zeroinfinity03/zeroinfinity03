@@ -12,15 +12,23 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0271C1?style=for-the-badge\&logo=sas\&logoColor=white)
+
+---
+
+### **Libraries & Frameworks**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-000000?style=for-the-badge\&logo=polars\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge\&logo=scipy\&logoColor=white)
-
----
-
-### **Frameworks & Backend Tools**
-
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323232?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
@@ -31,26 +39,17 @@
 
 ---
 
-### **Machine Learning & AI**
+### **GenAI, Machine Learning & NLP**
 
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge\&logo=xgboost\&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-9C27B0?style=for-the-badge\&logo=catboost\&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-6A1B9A?style=for-the-badge\&logo=data\&logoColor=white)
-
----
-
-### **GenAI & NLP**
-
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-1976D2?style=for-the-badge\&logo=data\&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A148C?style=for-the-badge\&logo=llama\&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=for-the-badge\&logo=database\&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
 ![PubMedBERT](https://img.shields.io/badge/PubMedBERT-0052CC?style=for-the-badge\&logo=transformers\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge\&logo=xgboost\&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-9C27B0?style=for-the-badge\&logo=catboost\&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-6A1B9A?style=for-the-badge\&logo=data\&logoColor=white)
 
 ---
 

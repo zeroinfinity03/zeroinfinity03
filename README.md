@@ -42,6 +42,10 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A148C?style=for-the-badge\&logo=llama\&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=for-the-badge\&logo=database\&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-00457C?style=for-the-badge\&logo=bert\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-007396?style=for-the-badge\&logo=nltk\&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge\&logo=spacy\&logoColor=white)
+
 
 **A/B testing**, **time-series forecasting**, **predictive modeling**
 
@@ -171,6 +175,9 @@
 * **LinkedIn**: [Surya Singh](https://www.linkedin.com/in/surya-singh-412564233/)
 * **Email**: [vik03surya@gmail.com](mailto:vik03surya@gmail.com)
 * **GitHub**: [ZeroInfinity](https://github.com/zeroinfinity03)
+
+
+
 
 
 

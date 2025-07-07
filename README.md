@@ -69,7 +69,94 @@
 
 ## 🚀 Featured Projects
 
-*Refer to the full project list in the next section or GitHub repos for detailed descriptions.*
+### 🔹 KnowFlow
+
+**Tech:** Llama3.2, RAG, ChromaDB, LlamaIndex, LangChain, GCP TTS
+
+* Built an LLM-powered multimodal agentic chatbot with fine-tuned Llama3.2 (4-bit quantization) for 100% local deployment.
+* Implemented a RAG pipeline using ChromaDB & LlamaIndex to support six file formats with vector-based semantic search.
+* Designed GenAI agents for CSV parsing, Python code execution, and real-time analytical insights using LangChain Pandas DataFrame Agent.
+* Engineered custom prompt templates and orchestration logic to guide LLM behavior across tasks.
+* Added multilingual voice response capabilities (20+ languages) via GCP Text-to-Speech integration.
+  [GitHub Repo](https://github.com/zeroinfinity03/KnowFlow)
+
+### 🔹 Visionary
+
+**Tech:** Gemini Flash LLM, FastAPI, GCP TTS, Perplexity, LangChain
+
+* Led a team of 5 to build a real-time blind assistance system using Gemini Flash LLM and LangChain Agents.
+* Integrated multilingual GCP Text-to-Speech with FastAPI backend to reduce latency by 15%.
+* Enabled voice-driven GenAI agent with gesture-based activation (tap, double-tap, shake) for accessible UX.
+* Incorporated Perplexity Sonar model with rate-limited API design to serve real-time factual queries.
+* Engineered prompt templates and fallback logic for reliable and safe LLM behavior in dynamic contexts.
+  [GitHub Repo](https://github.com/zeroinfinity03/Visionary_mate.git)
+
+### 🔹 Real-Time Stock Prediction
+
+**Tech:** FastAPI, Prophet, SentimentAnalyzer, Jinja2
+
+* Built FastAPI service with S\&P 500 symbol integration and multi-period support (1w, 1mo, 6mo).
+* Implemented predict stock prices function combining Prophet forecasting with company sentiment analysis.
+* Deployed REST endpoints (/api/stock/{symbol}, /predict, /sentiment, /search) with JSONResponse formatting.
+* Integrated SentimentAnalyzer class with error handling and Jinja2 template rendering.
+  [GitHub Repo](https://github.com/zeroinfinity03/real-time-stock-prediction.git)
+
+### 🔹 Movies Recommendation System
+
+**Tech:** Streamlit, CountVectorizer, TMDB API, Pickle
+
+* Implemented content-based filtering using CountVectorizer (max features=5000) and cosine similarity matrix on 4,806 movies.
+* Engineered unified feature vectors by merging overview, genres, keywords, cast, and crew using ast.literal\_eval for JSON parsing.
+* Built sophisticated data preprocessing pipeline with stop-word removal and space normalization for text features.
+* Deployed Streamlit web app with pickle model serialization and TMDB API integration for real-time poster fetching.
+
+### 🔹 Audio-2-Text
+
+**Tech:** FastAPI, Whisper.cpp, FFmpeg, Jinja2
+
+* Built production FastAPI web service with subprocess integration wrapping whisper.cpp binary and ggml-base.en.bin model for local transcription.
+* Implemented FFmpeg audio conversion pipeline with specific parameters (16kHz sample rate, mono channel, pcm s16le codec) supporting 7 formats.
+* Engineered robust file handling using tempfile.NamedTemporaryFile with automatic cleanup and comprehensive error handling via subprocess.
+* Deployed RESTful API with /transcribe, /system-info, /test-upload endpoints using Jinja2 templates.
+
+### 🔹 Breast Cancer Classification
+
+**Tech:** TensorFlow, Keras
+
+* Built deep learning neural network achieving 93.86% accuracy on Wisconsin Breast Cancer dataset (569 samples, 30 features).
+* Designed optimized architecture with 30 inputs, 20 ReLU hidden neurons, and sigmoid output for binary classification.
+* Performed comprehensive EDA on medical features including radius, texture, perimeter, and symmetry measurements.
+* Implemented model monitoring with Matplotlib tracking accuracy and loss curves over 10 epochs.
+
+### 🔹 Medical RAG System
+
+**Tech:** LangChain, BioMistral-7B, Qdrant, PubMedBERT, FastAPI
+
+* Deployed BioMistral-7B.Q4 model using LlamaCpp for lightweight inference on biomedical text.
+* Constructed a RAG pipeline using LangChain with chunked document ingestion and Qdrant vector DB for k=1 retrieval.
+* Used PubMedBERT for domain-specific embeddings to enhance relevance in scientific literature search.
+* Built FastAPI service with RESTful endpoints and dynamic file upload support for real-time document QA.
+* Implemented prompt engineering for source attribution and ensured safe, interpretable LLM outputs.
+
+### 🔹 Customer Churn Prediction
+
+**Tech:** Random Forest, GridSearchCV, StandardScaler
+
+* Performed EDA revealing 0.63 correlation between months since last transaction and churn with right-skewed distributions.
+* Compared Logistic Regression (83.1%), Decision Tree (78.6%), Random Forest (86%) with 80/20 split.
+* Optimized models using GridSearchCV \[0.001–1000] with StandardScaler achieving C=0.001 (5-fold CV=0.799).
+* Selected Random Forest with feature importance: months since last transaction (0.424), sum collect points (0.264).
+
+### 🔹 Credit Card Fraud Detection
+
+**Tech:** XGBoost, SMOTE, Ensemble Methods
+
+* Built ensemble models achieving 100% accuracy using Random Forest, XGBoost, and CatBoost.
+* Handled severely imbalanced dataset (9,961:38 ratio) using SMOTE oversampling technique.
+* Analyzed 284,807 transactions with 30 anonymized features for comprehensive fraud detection.
+* Created robust evaluation framework with confusion matrices and ROC-AUC analysis.
+
+---
 
 ---
 

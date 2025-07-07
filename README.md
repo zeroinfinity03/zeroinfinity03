@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-### I'm Surya, a data scientist and developer passionate about transforming real-world problems into intelligent, scalable solutions using AI, backend systems, and cloud tools.
+### I’m a data scientist and developer. I’ve built forecasting models, classification systems, and LLM-powered applications, and deployed scalable microservices using FastAPI, Docker, and CI/CD on AWS and GCP. My work spans classical machine learning and GenAI, with a focus on turning data into usable insights, building full-stack systems, and delivering end-to-end solutions that make an impact.
 
 ---
 

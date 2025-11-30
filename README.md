@@ -1,4 +1,4 @@
-# 👋 Welcome to the ZeroInfinity Repository!
+# 👋 Welcome to my Repo!
 
 ## 🌟 About Me
 

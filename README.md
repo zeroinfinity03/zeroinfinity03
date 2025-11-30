@@ -2,11 +2,11 @@
 
 ## 🌟 About Me
 
-### I'm love building projects integrating AI, and si am syitll learning daily , with a Master's in Information Systems (Data Science) from California State University, Fullerton. I specialize in building intelligent applications using Large Language Models, RAG pipelines, and agentic workflows.
+### I'm love building projects integrating AI that people can use in their everyday lives, with a Master's in Information Systems (Data Science) and a background in Computer Science, I enjoy working at the intersection of software engineering and machine learning.
 
-My journey spans from developing AI summarization agents and natural language data analysts to building multimodal chatbots and content moderation systems. I'm passionate about making AI accessible and practical.
+I have worked on things like an AI summarization agent for form reviews, a natural language “data analyst” that answers questions on top of CSV data, a multimodal chatbot that runs locally, and a content moderation system that understands algo-speak. I like taking messy data or workflows and turning them into simple products.
 
-When I'm not coding, you'll find me exploring new AI research papers, contributing to open-source projects, or writing technical articles on Medium.
+I am especially interested in LLM applications, RAG pipelines, agent-style workflows, and local/offline AI. Most days you will find me coding, reading AI papers, trying new open source models, or writing and sharing what I learn.
 
 ---
 

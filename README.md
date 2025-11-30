@@ -68,95 +68,84 @@ I am especially interested in LLM applications, RAG pipelines, agent-style workf
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 KnowFlow
+### KnowFlow
+**Tech:** FastAPI, Playwright, Ollama, Llama 3.2 (4-bit), ChromaDB, HuggingFace, GCP TTS  
+- Built a multimodal AI chatbot using quantized Llama 3.2 for fully local inference.  
+- Implemented a RAG pipeline with ChromaDB to support document question answering across six file formats.  
+- Added support for text, image, and voice interactions so users can work with content in different ways.  
+- Repo: https://github.com/zeroinfinity03/knowflow-beta1.0.git  
 
-**Tech:** Llama3.2, RAG, ChromaDB, LlamaIndex, LangChain, GCP TTS
+---
 
-* Built an LLM-powered multimodal agentic chatbot with fine-tuned Llama3.2 (4-bit quantization) for 100% local deployment.
-* Implemented a RAG pipeline using ChromaDB & LlamaIndex to support six file formats with vector-based semantic search.
-* Designed GenAI agents for CSV parsing, Python code execution, and real-time analytical insights using LangChain Pandas DataFrame Agent.
-* Engineered custom prompt templates and orchestration logic to guide LLM behavior across tasks.
-* Added multilingual voice response capabilities (20+ languages) via GCP Text-to-Speech integration.
-  [GitHub Repo](https://github.com/zeroinfinity03/KnowFlow)
+### Algospeak-Aware Content Moderation
+**Tech:** FastAPI, Qwen2.5-3B, QLoRA, Polars, Next.js  
+- Designed a two stage moderation system: JSON algospeak normalizer plus a QLoRA tuned Qwen2.5-3B classifier.  
+- Fine tuned on a 52k sample built from the Jigsaw toxicity dataset.  
+- Built a hot reload JSON normalizer that covers 100+ algospeak variants like character swaps, phonetics, and euphemisms.  
+- Repo: https://github.com/zeroinfinity03/Algospeak-Aware-Content-Moderation  
 
-### 🔹 Visionary
+---
 
-**Tech:** Gemini Flash LLM, FastAPI, GCP TTS, Perplexity, LangChain
+### SQLite3 MCP Server
+**Tech:** FastAPI, FastMCP, MCP SDK, Gemini 2.0 Flash, SQLite3, Python  
+- Built a local Model Context Protocol (MCP) server exposing eight read only database tools for LLMs.  
+- Let LLMs inspect schemas and run safe SQL queries over SQLite3 databases.  
+- Integrated Gemini 2.0 Flash through the MCP Python SDK to enable natural language database exploration.  
+- Repo: https://github.com/zeroinfinity03/sqlite3-mcpserver  
 
-* Led a team of 5 to build a real-time blind assistance system using Gemini Flash LLM and LangChain Agents.
-* Integrated multilingual GCP Text-to-Speech with FastAPI backend to reduce latency by 15%.
-* Enabled voice-driven GenAI agent with gesture-based activation (tap, double-tap, shake) for accessible UX.
-* Incorporated Perplexity Sonar model with rate-limited API design to serve real-time factual queries.
-* Engineered prompt templates and fallback logic for reliable and safe LLM behavior in dynamic contexts.
-  [GitHub Repo](https://github.com/zeroinfinity03/Visionary_mate.git)
+---
 
-### 🔹 Real-Time Stock Prediction
+### Breast Cancer Classification
+**Tech:** Python, TensorFlow, Keras, Scikit learn, Matplotlib  
+- Trained a deep learning model on the Wisconsin Breast Cancer dataset and reached 93.86 percent accuracy.  
+- Used StandardScaler and correlation analysis to clean features and reduce false negatives.  
+- Visualized training curves and model behavior using Matplotlib for better debugging.  
+- Repo: https://github.com/zeroinfinity03/Breastcancer  
 
-**Tech:** FastAPI, Prophet, SentimentAnalyzer, Jinja2
+---
 
-* Built FastAPI service with S\&P 500 symbol integration and multi-period support (1w, 1mo, 6mo).
-* Implemented predict stock prices function combining Prophet forecasting with company sentiment analysis.
-* Deployed REST endpoints (/api/stock/{symbol}, /predict, /sentiment, /search) with JSONResponse formatting.
-* Integrated SentimentAnalyzer class with error handling and Jinja2 template rendering.
-  [GitHub Repo](https://github.com/zeroinfinity03/real-time-stock-prediction.git)
+### Credit Card Fraud Detection
+**Tech:** Python, Scikit learn, XGBoost, CatBoost, SMOTE  
+- Built ensemble models on 284k plus transactions to detect rare fraudulent activity.  
+- Handled strong class imbalance (about 0.17 percent fraud) with SMOTE oversampling.  
+- Tuned thresholds to focus on recall and reduce missed fraud cases while keeping stable ROC AUC.  
+- Repo: https://github.com/zeroinfinity03/credit-card-fault_detection  
 
-### 🔹 Movies Recommendation System
+---
 
-**Tech:** Streamlit, CountVectorizer, TMDB API, Pickle
+### Customer Churn Prediction
+**Tech:** Python, Scikit learn, Random Forest, Pandas  
+- Trained a churn classifier that outperformed logistic regression baselines and reached 86 percent accuracy.  
+- Engineered features like collect to redeem ratio to capture customer engagement.  
+- Used feature importance to give the business clear signals on which behaviors drive churn.  
+- Repo: https://github.com/zeroinfinity03/customer_churn_prediction  
 
-* Implemented content-based filtering using CountVectorizer (max features=5000) and cosine similarity matrix on 4,806 movies.
-* Engineered unified feature vectors by merging overview, genres, keywords, cast, and crew using ast.literal\_eval for JSON parsing.
-* Built sophisticated data preprocessing pipeline with stop-word removal and space normalization for text features.
-* Deployed Streamlit web app with pickle model serialization and TMDB API integration for real-time poster fetching.
+---
 
-### 🔹 Audio-2-Text
+### Movies Recommendation System
+**Tech:** Python, Streamlit, TMDB API, Scikit learn, NLP  
+- Built a content based movie recommender using TF IDF vectors and cosine similarity.  
+- Combined overview, genres, keywords, cast, and crew into a single text feature space.  
+- Deployed as a Streamlit app with TMDB API for live posters and used Pickle for fast model loading.  
+- Repo: https://github.com/zeroinfinity03/MoviesRecommendation  
 
-**Tech:** FastAPI, Whisper.cpp, FFmpeg, Jinja2
+---
 
-* Built production FastAPI web service with subprocess integration wrapping whisper.cpp binary and ggml-base.en.bin model for local transcription.
-* Implemented FFmpeg audio conversion pipeline with specific parameters (16kHz sample rate, mono channel, pcm s16le codec) supporting 7 formats.
-* Engineered robust file handling using tempfile.NamedTemporaryFile with automatic cleanup and comprehensive error handling via subprocess.
-* Deployed RESTful API with /transcribe, /system-info, /test-upload endpoints using Jinja2 templates.
+## Certifications
 
-### 🔹 Breast Cancer Classification
+- Machine Learning Specialization – Stanford  
+  https://coursera.org/verify/specialization/437QUM0RYAZB  
 
-**Tech:** TensorFlow, Keras
+- Mathematics for ML and Data Science – DeepLearning.AI  
+  https://coursera.org/verify/specialization/6EDLBA40SFZ1  
 
-* Built deep learning neural network achieving 93.86% accuracy on Wisconsin Breast Cancer dataset (569 samples, 30 features).
-* Designed optimized architecture with 30 inputs, 20 ReLU hidden neurons, and sigmoid output for binary classification.
-* Performed comprehensive EDA on medical features including radius, texture, perimeter, and symmetry measurements.
-* Implemented model monitoring with Matplotlib tracking accuracy and loss curves over 10 epochs.
+- IBM Data Science Professional Certificate  
+  https://coursera.org/verify/professional-cert/UE1MUECTEX07  
 
-### 🔹 Medical RAG System
-
-**Tech:** LangChain, BioMistral-7B, Qdrant, PubMedBERT, FastAPI
-
-* Deployed BioMistral-7B.Q4 model using LlamaCpp for lightweight inference on biomedical text.
-* Constructed a RAG pipeline using LangChain with chunked document ingestion and Qdrant vector DB for k=1 retrieval.
-* Used PubMedBERT for domain-specific embeddings to enhance relevance in scientific literature search.
-* Built FastAPI service with RESTful endpoints and dynamic file upload support for real-time document QA.
-* Implemented prompt engineering for source attribution and ensured safe, interpretable LLM outputs.
-
-### 🔹 Customer Churn Prediction
-
-**Tech:** Random Forest, GridSearchCV, StandardScaler
-
-* Performed EDA revealing 0.63 correlation between months since last transaction and churn with right-skewed distributions.
-* Compared Logistic Regression (83.1%), Decision Tree (78.6%), Random Forest (86%) with 80/20 split.
-* Optimized models using GridSearchCV \[0.001–1000] with StandardScaler achieving C=0.001 (5-fold CV=0.799).
-* Selected Random Forest with feature importance: months since last transaction (0.424), sum collect points (0.264).
-
-### 🔹 Credit Card Fraud Detection
-
-**Tech:** XGBoost, SMOTE, Ensemble Methods
-
-* Built ensemble models achieving 100% accuracy using Random Forest, XGBoost, and CatBoost.
-* Handled severely imbalanced dataset (9,961:38 ratio) using SMOTE oversampling technique.
-* Analyzed 284,807 transactions with 30 anonymized features for comprehensive fraud detection.
-* Created robust evaluation framework with confusion matrices and ROC-AUC analysis.
-
+- Google Advanced Data Analytics Certificate  
+  https://coursera.org/verify/professional-cert/H4RSHKEWG8XT  
 ---
 
 ## 🏆 Achievements

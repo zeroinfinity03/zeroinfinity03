@@ -2,7 +2,8 @@
 
 ## 🌟 About Me
 
-### AI/ML Engineer who builds intelligent systems that actually ship — from real-time fraud detection pipelines processing millions of daily events to GenAI assistants serving 160K+ monthly queries.
+### AI/ML Engineer who love building with AI.
+I have been involved in building things with intelligent systems that actually ship — from real-time fraud detection pipelines processing millions of daily events to GenAI assistants serving 160K+ monthly queries.
 
 Professionally, I've built production ML systems in financial services — real-time fraud risk scoring with PyTorch and Kafka, RAG-powered support tools with LangChain and FAISS, graph-based fraud network detection with Neo4j, anomaly detection models that prevented $32M+ in losses, and end-to-end MLOps across 25+ production models using Docker, Kubernetes, and MLflow.
 

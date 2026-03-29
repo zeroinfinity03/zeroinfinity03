@@ -2,14 +2,13 @@
 
 ## 🌟 About Me
 
-### AI/ML Engineer who love building with AI.
-I have been involved in building intelligent systems that actually ship — from real-time fraud detection pipelines processing millions of daily events to GenAI assistants serving 160K+ monthly queries.
+I work on applied machine learning systems that sit close to real decisions.
 
-Professionally, I've built production ML systems in financial services — real-time fraud risk scoring with PyTorch and Kafka, RAG-powered support tools with LangChain and FAISS, graph-based fraud network detection with Neo4j, anomaly detection models that prevented $32M+ in losses, and end-to-end MLOps across 25+ production models using Docker, Kubernetes, and MLflow.
+Professionally, that has meant building production ML in financial services: fraud and risk models, real-time scoring systems, graph-based detection, GenAI support tools, and the infrastructure needed to deploy, monitor, and improve them over time.
 
-On the side, I build AI tools people can actually use — a multimodal chatbot that runs fully local on quantized Llama, an algospeak-aware content moderation system fine-tuned with QLoRA, an MCP server that lets LLMs query databases through natural language, and more. I like taking messy problems and turning them into clean, usable products.
+Personally, I enjoy building AI tools that are practical, not just interesting, especially in areas like LLM apps, RAG, local inference, and workflow automation. I like messy problems, clear systems, and products that people can actually use.
 
-**Interested in:** LLM Applications · RAG Pipelines · Agentic Workflows · Local/Offline AI · Production ML Systems · MLOps
+**Interests:** Production ML · LLM Applications · RAG · Agentic Workflows · Local AI · MLOps
 
 ---
 

@@ -109,11 +109,6 @@ My professional focus is applied ML in high-stakes domains: fraud and risk model
 A fully local multimodal AI assistant built on quantized Llama 3.2, with a ChromaDB-backed RAG pipeline supporting document Q&A across six file formats and text, image, and voice interaction.
 [Repository](https://github.com/zeroinfinity03/knowflow-beta1.0)
 
-### GenAI Risk Intelligence System
-`GPT-4` · `LLaMA` · `LangChain` · `ChromaDB` · `FAISS` · `FastAPI` · `Docker` · `AWS` · `MLflow`
-
-A modular GenAI assistant with RAG over 500+ financial and policy documents, producing audit-ready risk summaries. Deployed as a scalable FastAPI microservice with WebSocket streaming and MLflow experiment tracking.
-[Repository](https://github.com/zeroinfinity03)
 
 ### Algospeak-Aware Content Moderation
 `FastAPI` · `Qwen2.5-3B` · `QLoRA` · `Polars` · `Next.js`
